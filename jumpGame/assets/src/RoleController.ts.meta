@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "6cee4eda-7cd5-4a06-8a9a-e59dfc242acb",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/src/RoleController.ts",
+    "importAsPlugin": false
+  }
+}

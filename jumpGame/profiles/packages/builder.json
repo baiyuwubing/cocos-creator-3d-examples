@@ -1,0 +1,64 @@
+{
+  "common": {
+    "taskName": "web-mobile",
+    "platform": "web-mobile",
+    "md5Cache": true,
+    "orientation": "portrait"
+  },
+  "web-mobile": {
+    "orientation": "portrait"
+  },
+  "BuildTaskManager": {
+    "queue": [
+      {
+        "id": "web-mobile",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "buildPath": "build",
+          "compressTexture": true,
+          "debug": false,
+          "designHeight": 960,
+          "designWidth": 1280,
+          "embedWebDebugger": false,
+          "forceCombileEngine": false,
+          "inlineSpriteFrames": false,
+          "md5Cache": true,
+          "mergeStartScene": false,
+          "name": "jumpGame",
+          "orientation": "portrait",
+          "packAutoAtlas": true,
+          "platform": "web-mobile",
+          "scenes": [
+            {
+              "url": "db://assets/res/scene/main.scene",
+              "uuid": "0298cd6c-f5e4-40ff-9749-130925342913"
+            }
+          ],
+          "sourceMaps": false,
+          "startScene": "0298cd6c-f5e4-40ff-9749-130925342913",
+          "taskName": "web-mobile",
+          "includeModules": [
+            "base",
+            "gfx-webgl",
+            "gfx-webgl2",
+            "ui",
+            "particle",
+            "physics-cannon",
+            "physics-framework",
+            "audio",
+            "tween",
+            "terrain"
+          ],
+          "designResolution": {
+            "width": 640,
+            "height": 960,
+            "fitWidth": true,
+            "fitHeight": true
+          }
+        },
+        "message": "build sucess in 144748 ms!"
+      }
+    ]
+  }
+}

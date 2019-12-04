@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.16",
+  "importer": "image",
+  "imported": true,
+  "uuid": "c51b5b45-1987-4aeb-8c72-b7648c1b3446",
+  "files": [
+    ".jpg",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "texture",
+      "id": "6c48a",
+      "displayName": "sea_ft.JPG",
+      "uuid": "c51b5b45-1987-4aeb-8c72-b7648c1b3446@6c48a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c51b5b45-1987-4aeb-8c72-b7648c1b3446"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "c51b5b45-1987-4aeb-8c72-b7648c1b3446@6c48a"
+  }
+}

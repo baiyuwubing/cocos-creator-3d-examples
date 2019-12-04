@@ -1,0 +1,22 @@
+{
+  "state": {
+    "expandUuids": [
+      "db://assets",
+      "1d1fbab8-07aa-44e6-9f7d-800edcbb2598",
+      "497bf6b0-3fee-449f-9ba7-d78220a300ab",
+      "9a09ca75-d60c-4638-af37-940b54340b75",
+      "6bc6d897-2f75-4cb9-a47b-3577d87efd4e",
+      "49057b4c-baee-4963-9d19-39edaa448475",
+      "245a092a-2ab0-4c55-b65f-1ac8a5ec92c9",
+      "50dbaff1-4db6-43d5-844c-110aebdce9ce",
+      "ff848d56-ef88-43c0-9c28-f71a53000aa8",
+      "ea5b3ec0-c141-4f07-80e6-c14830aafa93",
+      "04192ac6-b8b0-498f-a46f-2c2aa6c37efc",
+      "b7dcacc2-7975-44e6-a49b-e9f8906e4727",
+      "0002d769-007f-42c3-9070-2a568c43626e",
+      "6cce5462-2c55-486f-b4ca-10939ac5d3b6",
+      "556067ea-b697-45ac-9d9b-3f10857c2577"
+    ],
+    "sortType": "name"
+  }
+}

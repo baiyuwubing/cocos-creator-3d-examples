@@ -1,0 +1,108 @@
+{
+  "ver": "1.3.15",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "3e7fabca-ed91-4e13-9c84-e49736de0248",
+  "files": [],
+  "subMetas": {
+    "b63fb": {
+      "ver": "1.0.7",
+      "importer": "gltf-mesh",
+      "name": "Sphere_0.mesh",
+      "id": "b63fb",
+      "displayName": "",
+      "uuid": "3e7fabca-ed91-4e13-9c84-e49736de0248@b63fb",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "e39f7": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "UnnamedTexture.texture",
+      "id": "e39f7",
+      "displayName": "",
+      "uuid": "3e7fabca-ed91-4e13-9c84-e49736de0248@e39f7",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/3d/ball/textures/Scene_-_Root_baseColor.jpeg"
+      }
+    },
+    "35b08": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "Scene_-_Root.material",
+      "id": "35b08",
+      "displayName": "",
+      "uuid": "3e7fabca-ed91-4e13-9c84-e49736de0248@35b08",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "d1932": {
+      "ver": "1.0.8",
+      "importer": "gltf-scene",
+      "name": "scene.prefab",
+      "id": "d1932",
+      "displayName": "",
+      "uuid": "3e7fabca-ed91-4e13-9c84-e49736de0248@d1932",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "normals": 2,
+    "tangents": 2,
+    "dumpMaterials": false,
+    "redirect": "3e7fabca-ed91-4e13-9c84-e49736de0248@d1932",
+    "assetFinder": {
+      "meshes": [
+        "3e7fabca-ed91-4e13-9c84-e49736de0248@b63fb"
+      ],
+      "textures": [
+        "3e7fabca-ed91-4e13-9c84-e49736de0248@e39f7"
+      ],
+      "materials": [
+        "3e7fabca-ed91-4e13-9c84-e49736de0248@35b08"
+      ],
+      "scenes": [
+        "3e7fabca-ed91-4e13-9c84-e49736de0248@d1932"
+      ],
+      "skeletons": []
+    },
+    "imageMetas": [
+      {
+        "uri": "db://assets/res/3d/ball/textures/Scene_-_Root_baseColor.jpeg"
+      }
+    ]
+  }
+}

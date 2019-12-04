@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "8218721a-cfcb-471c-9cf8-b8c34a5b97d0",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/src/GameMgr.ts",
+    "importAsPlugin": false
+  }
+}

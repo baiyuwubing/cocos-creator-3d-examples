@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "7349ac5b-3979-4131-8aae-cad4a23c5aae",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/src/NodePos.ts",
+    "importAsPlugin": false
+  }
+}

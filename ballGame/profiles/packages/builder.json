@@ -1,0 +1,60 @@
+{
+  "common": {
+    "taskName": "web-mobile",
+    "platform": "web-mobile",
+    "md5Cache": true
+  },
+  "BuildTaskManager": {
+    "queue": [
+      {
+        "id": "web-mobile",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "buildPath": "build",
+          "compressTexture": true,
+          "debug": false,
+          "designHeight": 960,
+          "designWidth": 1280,
+          "embedWebDebugger": false,
+          "forceCombileEngine": false,
+          "inlineSpriteFrames": false,
+          "md5Cache": true,
+          "mergeStartScene": false,
+          "name": "ballGame",
+          "orientation": "auto",
+          "packAutoAtlas": true,
+          "platform": "web-mobile",
+          "scenes": [
+            {
+              "url": "db://assets/main.scene",
+              "uuid": "97a1c778-0d24-4ee3-85d9-76b7dedebf95"
+            }
+          ],
+          "sourceMaps": false,
+          "startScene": "97a1c778-0d24-4ee3-85d9-76b7dedebf95",
+          "taskName": "web-mobile",
+          "includeModules": [
+            "base",
+            "gfx-webgl",
+            "gfx-webgl2",
+            "ui",
+            "particle",
+            "physics-cannon",
+            "physics-framework",
+            "audio",
+            "tween",
+            "terrain"
+          ],
+          "designResolution": {
+            "width": 750,
+            "height": 1334,
+            "fitWidth": true,
+            "fitHeight": true
+          }
+        },
+        "message": "build sucess in 5255 ms!"
+      }
+    ]
+  }
+}

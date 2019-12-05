@@ -40,32 +40,6 @@
     "_active": true,
     "_components": [],
     "_prefab": null,
-    "_lpos": {
-      "__type__": "cc.Vec3",
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "_lrot": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
-    "_lscale": {
-      "__type__": "cc.Vec3",
-      "x": 1,
-      "y": 1,
-      "z": 1
-    },
-    "_layer": 1,
-    "_euler": {
-      "__type__": "cc.Vec3",
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "autoReleaseAssets": false,
     "_globals": {
       "__id__": 214
@@ -5598,8 +5572,8 @@
     "node_ball": {
       "__id__": 138
     },
-    "node_ball_click": {
-      "__id__": 143
+    "model_ball": {
+      "__id__": 144
     },
     "node_chicken": {
       "__id__": 152
@@ -6065,6 +6039,7 @@
     "_fillStart": 0,
     "_fillRange": 0,
     "_isTrimmedMode": true,
+    "_useGrayscale": false,
     "_atlas": null,
     "_id": "90dfjO8pJOcqOf+LRAp1hi"
   },
@@ -6239,6 +6214,7 @@
     "_fillStart": 0,
     "_fillRange": 0,
     "_isTrimmedMode": true,
+    "_useGrayscale": false,
     "_atlas": null,
     "_id": "07a7J/6LREMILzxjJDd9Bo"
   },

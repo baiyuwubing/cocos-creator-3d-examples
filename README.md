@@ -2,7 +2,7 @@
 
 ## fingerBasketball
 
-cocos creator v1.0.1  
+cocos creator 3d v1.0.1  
 
 ![](./img/fingerBasketball.gif)
 
@@ -12,7 +12,7 @@ cocos creator v1.0.1
 
 ## fingerArchery
 
-cocos creator v1.0.0  
+cocos creator 3d v1.0.0  
 
 ![](./img/fingerArchery.gif)
 
@@ -23,7 +23,9 @@ cocos creator v1.0.0
 
 ## ballGame
 
-cocos creator v1.0.0  
+20191205 更新至 cocos creator 3d v1.0.1 。 修改射线检测。
+
+cocos creator 3d v1.0.0  
 
 ![](./img/ballGame.gif)
 
@@ -33,7 +35,7 @@ cocos creator v1.0.0
 
 ## jumpGame
 
-cocos creator v1.0.0  
+cocos creator 3d v1.0.0  
 
 ![](./img/jumpGame.gif)
 

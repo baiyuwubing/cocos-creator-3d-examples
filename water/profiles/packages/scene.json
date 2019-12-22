@@ -1,0 +1,31 @@
+{
+  "current-scene": "421b94c7-10a9-4cfb-b2ba-2696f33f3441",
+  "gizmos-infos": {
+    "iconGizmoSize": 2,
+    "isGridVisible": true,
+    "isIconGizmo3D": false
+  },
+  "camera-infos": {
+    "f46876e4-e81b-4931-b493-6d367be385e7": {
+      "position": {
+        "x": -0.11869241131504417,
+        "y": 3.5296320572814457,
+        "z": 8.226432823154534
+      },
+      "rotation": {
+        "w": 0.9795145352716741,
+        "x": -0.20124423037205066,
+        "y": -0.007065935786718868,
+        "z": -0.0014517179256172802
+      },
+      "viewCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    }
+  },
+  "camera-uuids": [
+    "f46876e4-e81b-4931-b493-6d367be385e7"
+  ]
+}

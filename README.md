@@ -2,6 +2,15 @@
 
 cocos creator 3d 使用示例项目
 
+# [water](./water)
+
+[玩水效果]()
+
+cocos creator 3d v1.0.2  
+
+![](./img/water.gif)
+
+[在线体验](http://lamyoung.gitee.io/web/water)
 
 # [raycast](./raycast)
 

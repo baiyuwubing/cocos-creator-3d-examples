@@ -20,8 +20,9 @@ export class GameMgr extends Component {
     }
 
     private playWaterEffect() {
-        // const pass = this.model_plane.material.passes[0];
-        this.model_plane.material.setProperty(`center${this._count++ % 10}`, this._temp_v4);
+        const pass = this.model_plane.material.passes[0];
+        pass.setUniform(pass.getHandle(`center${this._count++ % 10}`), this._temp_v4);
+        // this.model_plane.material.setProperty(`center${this._count++ % 10}`, this._temp_v4);
     }
 
     private onTouchStart(touch: Touch) {

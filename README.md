@@ -4,7 +4,7 @@ cocos creator 3d 使用示例项目
 
 # [water](./water)
 
-[玩水效果]()
+[玩水效果](./water)
 
 cocos creator 3d v1.0.2  
 

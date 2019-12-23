@@ -4,7 +4,7 @@ cocos creator 3d 使用示例项目
 
 # [water](./water)
 
-[玩水效果](./water)
+[玩水效果-文档](https://mp.weixin.qq.com/s/-5FSWg4YuGgqwv3L9tQ2dA)
 
 cocos creator 3d v1.0.2  
 
@@ -14,7 +14,7 @@ cocos creator 3d v1.0.2
 
 # [raycast](./raycast)
 
-[射线检测](https://mp.weixin.qq.com/s/ATbpJNKromv17ke1cWgDDw)
+[射线检测-文档](https://mp.weixin.qq.com/s/ATbpJNKromv17ke1cWgDDw)
 
 cocos creator 3d v1.0.1  
 
@@ -23,7 +23,7 @@ cocos creator 3d v1.0.1
 
 # [fingerBasketball](./fingerBasketball)
 
-[拇指投篮](https://mp.weixin.qq.com/s/VsbNtTL64J0xHIlhMUHCcQ)
+[拇指投篮-文档](https://mp.weixin.qq.com/s/VsbNtTL64J0xHIlhMUHCcQ)
 
 cocos creator 3d v1.0.1  
 
@@ -34,7 +34,7 @@ cocos creator 3d v1.0.1
 
 # [fingerArchery](./fingerArchery)
 
-[拇指射箭](https://mp.weixin.qq.com/s/ISsxM411netkEWLKi4v7XA)
+[拇指射箭-文档](https://mp.weixin.qq.com/s/ISsxM411netkEWLKi4v7XA)
 
 cocos creator 3d v1.0.0  
 
@@ -45,7 +45,7 @@ cocos creator 3d v1.0.0
 
 # [ballGame](./ballGame)
 
-[小鸡拍拍](https://mp.weixin.qq.com/s/sq_6PitkkHgDAj5bm1noPQ)
+[小鸡拍拍-文档](https://mp.weixin.qq.com/s/sq_6PitkkHgDAj5bm1noPQ)
 
 20191205 更新至 cocos creator 3d v1.0.1 。 修改射线检测。
 
@@ -58,7 +58,7 @@ cocos creator 3d v1.0.0
 
 # [jumpGame](./jumpGame)
 
-[小鸡跳跳](https://mp.weixin.qq.com/s/UJK5mn8bR_pJIGZ9SaB1Zw)
+[小鸡跳跳-文档](https://mp.weixin.qq.com/s/UJK5mn8bR_pJIGZ9SaB1Zw)
 
 cocos creator 3d v1.0.0  
 

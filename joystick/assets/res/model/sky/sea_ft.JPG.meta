@@ -1,0 +1,131 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "c51b5b45-1987-4aeb-8c72-b7648c1b3446",
+  "files": [
+    ".jpg",
+    ".json"
+  ],
+  "subMetas": {
+    "b47c0": {
+      "importer": "erp-texture-cube",
+      "uuid": "c51b5b45-1987-4aeb-8c72-b7648c1b3446@b47c0",
+      "displayName": "sea_ft",
+      "id": "b47c0",
+      "name": "textureCube",
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {
+        "74afd": {
+          "importer": "erp-texture-cube-face",
+          "uuid": "c51b5b45-1987-4aeb-8c72-b7648c1b3446@b47c0@74afd",
+          "displayName": "",
+          "id": "74afd",
+          "name": "right",
+          "ver": "1.0.4",
+          "imported": true,
+          "files": [
+            ".png",
+            ".json"
+          ],
+          "subMetas": {},
+          "userData": {}
+        },
+        "8fd34": {
+          "importer": "erp-texture-cube-face",
+          "uuid": "c51b5b45-1987-4aeb-8c72-b7648c1b3446@b47c0@8fd34",
+          "displayName": "",
+          "id": "8fd34",
+          "name": "left",
+          "ver": "1.0.4",
+          "imported": true,
+          "files": [
+            ".png",
+            ".json"
+          ],
+          "subMetas": {},
+          "userData": {}
+        },
+        "bb97f": {
+          "importer": "erp-texture-cube-face",
+          "uuid": "c51b5b45-1987-4aeb-8c72-b7648c1b3446@b47c0@bb97f",
+          "displayName": "",
+          "id": "bb97f",
+          "name": "top",
+          "ver": "1.0.4",
+          "imported": true,
+          "files": [
+            ".png",
+            ".json"
+          ],
+          "subMetas": {},
+          "userData": {}
+        },
+        "7d38f": {
+          "importer": "erp-texture-cube-face",
+          "uuid": "c51b5b45-1987-4aeb-8c72-b7648c1b3446@b47c0@7d38f",
+          "displayName": "",
+          "id": "7d38f",
+          "name": "bottom",
+          "ver": "1.0.4",
+          "imported": true,
+          "files": [
+            ".png",
+            ".json"
+          ],
+          "subMetas": {},
+          "userData": {}
+        },
+        "e9a6d": {
+          "importer": "erp-texture-cube-face",
+          "uuid": "c51b5b45-1987-4aeb-8c72-b7648c1b3446@b47c0@e9a6d",
+          "displayName": "",
+          "id": "e9a6d",
+          "name": "front",
+          "ver": "1.0.4",
+          "imported": true,
+          "files": [
+            ".png",
+            ".json"
+          ],
+          "subMetas": {},
+          "userData": {}
+        },
+        "40c10": {
+          "importer": "erp-texture-cube-face",
+          "uuid": "c51b5b45-1987-4aeb-8c72-b7648c1b3446@b47c0@40c10",
+          "displayName": "",
+          "id": "40c10",
+          "name": "back",
+          "ver": "1.0.4",
+          "imported": true,
+          "files": [
+            ".png",
+            ".json"
+          ],
+          "subMetas": {},
+          "userData": {}
+        }
+      },
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isRGBE": false,
+        "imageDatabaseUri": "db://assets/res/model/sky/sea_ft.JPG"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture cube",
+    "redirect": "c51b5b45-1987-4aeb-8c72-b7648c1b3446@b47c0"
+  }
+}

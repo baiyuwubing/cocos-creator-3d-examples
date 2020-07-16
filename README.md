@@ -2,6 +2,28 @@
 
 cocos creator 3d 使用示例项目
 
+欢迎关注微信公众号 `白玉无冰`  
+
+导航：https://mp.weixin.qq.com/s/Ht0kIbaeBEds_wUeUlu8JQ
+
+![](./img/about.jpg)  
+
+
+author: http://lamyoung.com/  
+B站视频: https://space.bilibili.com/1756070/video  
+github: https://github.com/baiyuwubing  
+qq 交流群: 859642112  
+
+
+# [joystick](./joystick)
+
+摇杆控制器  
+cocos creator 3d v1.1.1    
+
+![](./img/joystick.gif)
+
+
+
 # [water](./water)
 
 [玩水效果-文档](https://mp.weixin.qq.com/s/-5FSWg4YuGgqwv3L9tQ2dA)
@@ -70,3 +92,6 @@ cocos creator 3d v1.0.0
 ---
 
 ![](./img/about.jpg)
+
+--- 
+

@@ -46,12 +46,14 @@ export default class Joystick extends Component {
 
     onTouchMove(e: EventTouch) {
         const location = e.getUILocation();
-        let pos = this.uITransform.convertToNodeSpaceAR(new Vec3(location.x, location.y))//this.node.convertToNodeSpaceAR(e.getLocation());
+        // 坐标转换
+        let pos = this.uITransform.convertToNodeSpaceAR(new Vec3(location.x, location.y));
+        // 根据半径限制位置
         this.clampPos(pos);
-        // console.log(pos)
+        // 设置中间点的位置
         this.midNode.setPosition(pos.x, pos.y, 0);
+        // 算出与(1,0)的夹角
         let angle = this.covertToAngle(pos);
-        // console.log(this.joyCallBack);
         // 触发回调
         this.joyCallBack.forEach(c => c.emit([pos, angle]));
     }

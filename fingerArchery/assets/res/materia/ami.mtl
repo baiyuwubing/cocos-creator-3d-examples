@@ -9,7 +9,10 @@
   "_techIdx": 0,
   "_defines": [
     {
-      "USE_ALPHA_TEST": true
+      "USE_ALPHA_TEST": true,
+      "OCCLUSION_CHANNEL": "b",
+      "ROUGHNESS_CHANNEL": "r",
+      "METALLIC_CHANNEL": "g"
     }
   ],
   "_states": [
@@ -25,13 +28,6 @@
   ],
   "_props": [
     {
-      "albedo": {
-        "__type__": "cc.Color",
-        "r": 44,
-        "g": 30,
-        "b": 1,
-        "a": 255
-      },
       "pbrParams": {
         "__type__": "cc.Vec4",
         "x": 1,
@@ -44,6 +40,16 @@
         "r": 3,
         "g": 2,
         "b": 0,
+        "a": 255
+      },
+      "occlusion": 1,
+      "roughness": 0.8,
+      "metallic": 0.6,
+      "mainColor": {
+        "__type__": "cc.Color",
+        "r": 44,
+        "g": 30,
+        "b": 1,
         "a": 255
       }
     }

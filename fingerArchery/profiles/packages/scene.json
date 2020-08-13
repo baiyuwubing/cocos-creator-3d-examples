@@ -8,9 +8,9 @@
   "camera-infos": {
     "9cf954c7-a1f1-4374-b4f5-3ed5eb59e188": {
       "position": {
-        "x": 67.8480426649723,
-        "y": 26.17795899693383,
-        "z": -6.184304131199966
+        "x": 9.951801946561872,
+        "y": 4.370373120739639,
+        "z": 41.80264674674609
       },
       "rotation": {
         "w": 0.5776050673788619,
@@ -19,9 +19,9 @@
         "z": 0.15895649185954766
       },
       "viewCenter": {
-        "x": 4.203846744691475,
-        "y": -1.7716409483481144,
-        "z": 14.263548224497397
+        "x": 0,
+        "y": 0,
+        "z": 45
       }
     },
     "f46876e4-e81b-4931-b493-6d367be385e7": {
@@ -45,5 +45,25 @@
   },
   "camera-uuids": [
     "9cf954c7-a1f1-4374-b4f5-3ed5eb59e188"
-  ]
+  ],
+  "float-window": {
+    "position": {
+      "cc": {
+        "CameraComponent": {
+          "bottom": 10,
+          "dock": false,
+          "left": null,
+          "right": 10,
+          "top": null
+        },
+        "ParticleSystemComponent": {
+          "bottom": 10,
+          "dock": false,
+          "left": null,
+          "right": 10,
+          "top": null
+        }
+      }
+    }
+  }
 }

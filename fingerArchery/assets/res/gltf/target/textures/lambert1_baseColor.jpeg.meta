@@ -1,8 +1,8 @@
 {
-  "ver": "1.0.16",
+  "ver": "1.0.18",
   "importer": "image",
   "imported": true,
-  "uuid": "05ad62ea-6db5-49c5-b7ce-9979828aaf55",
+  "uuid": "72c26a14-c1b5-47a5-908f-acb1a88e198f",
   "files": [
     ".jpeg",
     ".json"
@@ -13,8 +13,8 @@
       "importer": "texture",
       "name": "texture",
       "id": "6c48a",
-      "displayName": "lambert1_normal",
-      "uuid": "05ad62ea-6db5-49c5-b7ce-9979828aaf55@6c48a",
+      "displayName": "lambert1_baseColor",
+      "uuid": "72c26a14-c1b5-47a5-908f-acb1a88e198f@6c48a",
       "imported": true,
       "files": [
         ".json"
@@ -29,12 +29,12 @@
         "premultiplyAlpha": false,
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "05ad62ea-6db5-49c5-b7ce-9979828aaf55"
+        "imageUuidOrDatabaseUri": "72c26a14-c1b5-47a5-908f-acb1a88e198f"
       }
     }
   },
   "userData": {
     "type": "texture",
-    "redirect": "05ad62ea-6db5-49c5-b7ce-9979828aaf55@6c48a"
+    "redirect": "72c26a14-c1b5-47a5-908f-acb1a88e198f@6c48a"
   }
 }

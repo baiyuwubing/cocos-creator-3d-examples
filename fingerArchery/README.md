@@ -1,8 +1,12 @@
 
+更新至 cocos creator 3d v1.1.2  
+
+--- 
+
 
 [拇指射箭](https://mp.weixin.qq.com/s/ISsxM411netkEWLKi4v7XA)
 
-cocos creator 3d v1.0.0  
+<!-- cocos creator 3d v1.0.0   -->
 
 ![](./../img/fingerArchery.gif)
 

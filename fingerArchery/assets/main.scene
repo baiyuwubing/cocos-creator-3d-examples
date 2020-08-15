@@ -138,7 +138,7 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 1,
+      "x": 0,
       "y": 0,
       "z": -10
     },
@@ -174,7 +174,7 @@
     "_enabled": true,
     "_projection": 1,
     "_priority": 0,
-    "_fov": 40,
+    "_fov": 30,
     "_fovAxis": 0,
     "_orthoHeight": 10,
     "_near": 1,

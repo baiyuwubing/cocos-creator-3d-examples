@@ -65,7 +65,9 @@ export class GameMgr extends Component {
         this._wind = Math.round(Math.random() * 100) - 50;
         this.lb_wind.string = `风向：${this._wind < 0 ? '>>> ' : '<<< '}${Math.abs(this._wind)}`;
 
-        this.camera_main.node.setPosition(Math.random(), this.camera_main.node.position.y, this.camera_main.node.position.z)
+        // this.camera_main.node.setPosition(Math.random(), this.camera_main.node.position.y, this.camera_main.node.position.z);
+
+        this.camera_main.fov = 30;
 
         this.resetBow();
         this.resetTarget();
@@ -113,8 +115,8 @@ export class GameMgr extends Component {
         const outRay = this.camera_main.screenPointToRay(screenPoint.x, screenPoint.y);
         const targetZ = this.NodePos_target.z;
         const dir_t = (targetZ - outRay.o.z) / outRay.d.z;
-        const targetX = outRay.o.x + outRay.d.x * dir_t + this._wind * targetZ * 0.001;
-        const targetY = outRay.o.y + outRay.d.y * dir_t - targetZ * 0.01;
+        const targetX = outRay.o.x + outRay.d.x * dir_t + this._wind * targetZ * 5e-4;
+        const targetY = outRay.o.y + outRay.d.y * dir_t - Math.sqrt(targetZ) * 1e-2;
 
         tween(this.NodePos_arrow)
             .stop()
@@ -138,6 +140,10 @@ export class GameMgr extends Component {
     private onTouchStart(touch: Touch) {
         const delta = touch.getDelta();
         this.node_ami.active = true;
+        // this.camera_main.fov = 20;
+        tween(this.camera_main)
+            .to(0.5, { fov: 20 })
+            .start();
     }
 
     private onTouchMove(touch: Touch) {

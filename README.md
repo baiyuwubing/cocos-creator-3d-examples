@@ -22,7 +22,7 @@ cocos creator 3d v1.1.1
 
 ![](./img/joystick.gif)
 
-
+https://mp.weixin.qq.com/s/Cs2woHVVBT1zUHOoaq_VgA
 
 # [water](./water)
 
@@ -55,6 +55,8 @@ cocos creator 3d v1.0.1
 
 
 # [fingerArchery](./fingerArchery)
+
+https://mp.weixin.qq.com/s/3xB7Ab_nR76gRzUkFjAKqw
 
 更新至 cocos creator 3d v1.1.2  
 

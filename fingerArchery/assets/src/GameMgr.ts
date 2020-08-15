@@ -1,3 +1,5 @@
+// author: http://lamyoung.com/
+
 import { _decorator, Component, Node, systemEvent, SystemEvent, Touch, tween, CameraComponent, LabelComponent, Vec3, log, Tween } from "cc";
 import { NodePos } from "./NodePos";
 const { ccclass, property } = _decorator;
@@ -105,6 +107,8 @@ export class GameMgr extends Component {
         this.node_arrow_camera.active = true;
         this.NodePos_arrow.active = true;
 
+        // 射线检测
+        // https://mp.weixin.qq.com/s/3xB7Ab_nR76gRzUkFjAKqw
         const screenPoint = this.camera_main.worldToScreen(this.NodePos_bows.node.worldPosition);
         const outRay = this.camera_main.screenPointToRay(screenPoint.x, screenPoint.y);
         const targetZ = this.NodePos_target.z;
@@ -147,3 +151,36 @@ export class GameMgr extends Component {
         this.fireArrow();
     }
 }
+
+
+
+/*
+
+欢迎关注微信公众号 [白玉无冰]
+
+文档1 - https://mp.weixin.qq.com/s/ISsxM411netkEWLKi4v7XA
+文档2 - https://mp.weixin.qq.com/s/3xB7Ab_nR76gRzUkFjAKqw
+
+导航：https://mp.weixin.qq.com/s/Ht0kIbaeBEds_wUeUlu8JQ
+
+
+█████████████████████████████████████
+█████████████████████████████████████
+████ ▄▄▄▄▄ █▀█ █▄██▀▄ ▄▄██ ▄▄▄▄▄ ████
+████ █   █ █▀▀▀█ ▀▄▀▀▀█▄▀█ █   █ ████
+████ █▄▄▄█ █▀ █▀▀▀ ▀▄▄ ▄ █ █▄▄▄█ ████
+████▄▄▄▄▄▄▄█▄▀ ▀▄█ ▀▄█▄▀ █▄▄▄▄▄▄▄████
+████▄▄  ▄▀▄▄ ▄▀▄▀▀▄▄▄ █ █ ▀ ▀▄█▄▀████
+████▀ ▄  █▄█▀█▄█▀█  ▀▄ █ ▀ ▄▄██▀█████
+████ ▄▀▄▄▀▄ █▄▄█▄ ▀▄▀ ▀ ▀ ▀▀▀▄ █▀████
+████▀ ██ ▀▄ ▄██ ▄█▀▄ ██▀ ▀ █▄█▄▀█████
+████   ▄██▄▀ █▀▄▀▄▀▄▄▄▄ ▀█▀ ▀▀ █▀████
+████ █▄ █ ▄ █▀ █▀▄█▄▄▄▄▀▄▄█▄▄▄▄▀█████
+████▄█▄█▄█▄█▀ ▄█▄   ▀▄██ ▄▄▄ ▀   ████
+████ ▄▄▄▄▄ █▄██ ▄█▀  ▄   █▄█  ▄▀█████
+████ █   █ █ ▄█▄ ▀  ▀▀██ ▄▄▄▄ ▄▀ ████
+████ █▄▄▄█ █ ▄▄▀ ▄█▄█▄█▄ ▀▄   ▄ █████
+████▄▄▄▄▄▄▄█▄██▄▄██▄▄▄█████▄▄█▄██████
+█████████████████████████████████████
+█████████████████████████████████████
+*/

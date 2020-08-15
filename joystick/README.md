@@ -1,10 +1,10 @@
-摇杆控制器
+# 摇杆控制器
 
 cocos creator 3d v1.1.1  
 
 ![](./../img/joystick.gif)
 
-
+https://mp.weixin.qq.com/s/Cs2woHVVBT1zUHOoaq_VgA
  
 ---
 

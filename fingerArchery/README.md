@@ -1,6 +1,8 @@
 
 更新至 cocos creator 3d v1.1.2  
 
+https://mp.weixin.qq.com/s/3xB7Ab_nR76gRzUkFjAKqw
+
 --- 
 
 

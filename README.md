@@ -15,6 +15,26 @@ github: https://github.com/baiyuwubing
 qq 交流群: 859642112  
 
 
+# fat
+
+膨胀效果
+ 
+![](./img/fat.gif)
+
+cocos creator 3d v1.1.2
+
+
+# [fog](./fog)
+
+雾效果
+
+https://mp.weixin.qq.com/s/6s-e-NnAX_2_G7OxwUhR2A
+
+![](./img/fog.gif)
+
+
+cocos creator 3d v1.1.2
+
 # [joystick](./joystick)
 
 摇杆控制器  

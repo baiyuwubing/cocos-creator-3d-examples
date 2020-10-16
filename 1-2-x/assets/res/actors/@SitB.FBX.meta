@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b802b9c5-9b5e-4b4a-9e67-d10a80b857aa",
+  "files": [],
+  "subMetas": {
+    "d894c": {
+      "importer": "gltf-animation",
+      "uuid": "b802b9c5-9b5e-4b4a-9e67-d10a80b857aa@d894c",
+      "displayName": "",
+      "id": "d894c",
+      "name": "SitB.animation",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      }
+    },
+    "bd6d7": {
+      "importer": "gltf-scene",
+      "uuid": "b802b9c5-9b5e-4b4a-9e67-d10a80b857aa@bd6d7",
+      "displayName": "",
+      "id": "bd6d7",
+      "name": "@SitB.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "SitB",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "b802b9c5-9b5e-4b4a-9e67-d10a80b857aa@bd6d7",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "b802b9c5-9b5e-4b4a-9e67-d10a80b857aa@bd6d7"
+      ]
+    }
+  }
+}

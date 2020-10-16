@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "031b779f-d1c1-46cd-9c00-0b22362687f5",
+  "files": [],
+  "subMetas": {
+    "785c6": {
+      "importer": "gltf-animation",
+      "uuid": "031b779f-d1c1-46cd-9c00-0b22362687f5@785c6",
+      "displayName": "",
+      "id": "785c6",
+      "name": "SkillmM_End.animation",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.25
+        },
+        "events": []
+      }
+    },
+    "4ac76": {
+      "importer": "gltf-scene",
+      "uuid": "031b779f-d1c1-46cd-9c00-0b22362687f5@4ac76",
+      "displayName": "",
+      "id": "4ac76",
+      "name": "@SkillM_End.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.25,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "SkillmM_End",
+            "from": 0,
+            "to": 0.25,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "031b779f-d1c1-46cd-9c00-0b22362687f5@4ac76",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "031b779f-d1c1-46cd-9c00-0b22362687f5@4ac76"
+      ]
+    }
+  }
+}

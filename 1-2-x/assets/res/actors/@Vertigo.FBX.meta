@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c4a045b0-948c-40ec-9027-be07710fd5d5",
+  "files": [],
+  "subMetas": {
+    "57c4e": {
+      "importer": "gltf-animation",
+      "uuid": "c4a045b0-948c-40ec-9027-be07710fd5d5@57c4e",
+      "displayName": "",
+      "id": "57c4e",
+      "name": "Vertigo.animation",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      }
+    },
+    "c5164": {
+      "importer": "gltf-scene",
+      "uuid": "c4a045b0-948c-40ec-9027-be07710fd5d5@c5164",
+      "displayName": "",
+      "id": "c5164",
+      "name": "@Vertigo.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Vertigo",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "c4a045b0-948c-40ec-9027-be07710fd5d5@c5164",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "c4a045b0-948c-40ec-9027-be07710fd5d5@c5164"
+      ]
+    }
+  }
+}

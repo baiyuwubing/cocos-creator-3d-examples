@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "71c3211a-f657-43c3-8f55-0bf53020ae8b",
+  "files": [],
+  "subMetas": {
+    "e59c7": {
+      "importer": "gltf-animation",
+      "uuid": "71c3211a-f657-43c3-8f55-0bf53020ae8b@e59c7",
+      "displayName": "",
+      "id": "e59c7",
+      "name": "Revive.animation",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.3333332538604736
+        },
+        "events": []
+      }
+    },
+    "2e1db": {
+      "importer": "gltf-scene",
+      "uuid": "71c3211a-f657-43c3-8f55-0bf53020ae8b@2e1db",
+      "displayName": "",
+      "id": "2e1db",
+      "name": "@Revive.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 2.3333332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Revive",
+            "from": 0,
+            "to": 2.3333332538604736,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "71c3211a-f657-43c3-8f55-0bf53020ae8b@2e1db",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "71c3211a-f657-43c3-8f55-0bf53020ae8b@2e1db"
+      ]
+    }
+  }
+}

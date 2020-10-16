@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "98018075-0e6e-457d-8d34-5f2d811aa99e",
+  "files": [],
+  "subMetas": {
+    "5c84f": {
+      "importer": "gltf-animation",
+      "uuid": "98018075-0e6e-457d-8d34-5f2d811aa99e@5c84f",
+      "displayName": "",
+      "id": "5c84f",
+      "name": "IdleB.animation",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.5
+        },
+        "events": []
+      }
+    },
+    "096cd": {
+      "importer": "gltf-scene",
+      "uuid": "98018075-0e6e-457d-8d34-5f2d811aa99e@096cd",
+      "displayName": "",
+      "id": "096cd",
+      "name": "@IdleB.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 3.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "IdleB",
+            "from": 0,
+            "to": 3.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "98018075-0e6e-457d-8d34-5f2d811aa99e@096cd",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "98018075-0e6e-457d-8d34-5f2d811aa99e@096cd"
+      ]
+    }
+  }
+}

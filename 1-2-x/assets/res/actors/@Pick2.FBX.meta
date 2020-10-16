@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0d69b7f6-6bff-4429-8daa-14ba94b4b923",
+  "files": [],
+  "subMetas": {
+    "bd361": {
+      "importer": "gltf-animation",
+      "uuid": "0d69b7f6-6bff-4429-8daa-14ba94b4b923@bd361",
+      "displayName": "",
+      "id": "bd361",
+      "name": "Pick2.animation",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.9166666865348816
+        },
+        "events": []
+      }
+    },
+    "436e8": {
+      "importer": "gltf-scene",
+      "uuid": "0d69b7f6-6bff-4429-8daa-14ba94b4b923@436e8",
+      "displayName": "",
+      "id": "436e8",
+      "name": "@Pick2.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.9166666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Pick2",
+            "from": 0,
+            "to": 0.9166666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "0d69b7f6-6bff-4429-8daa-14ba94b4b923@436e8",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "0d69b7f6-6bff-4429-8daa-14ba94b4b923@436e8"
+      ]
+    }
+  }
+}

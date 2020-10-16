@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "660f5e54-458a-4f22-85aa-de438049b44e",
+  "files": [],
+  "subMetas": {
+    "31108": {
+      "importer": "gltf-scene",
+      "uuid": "660f5e54-458a-4f22-85aa-de438049b44e@31108",
+      "displayName": "",
+      "id": "31108",
+      "name": "@Walk.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "57146": {
+      "importer": "gltf-animation",
+      "uuid": "660f5e54-458a-4f22-85aa-de438049b44e@57146",
+      "displayName": "",
+      "id": "57146",
+      "name": "Walk.animation",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0416666269302368
+        },
+        "events": []
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.0416666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Walk",
+            "from": 0,
+            "to": 1.0416666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "660f5e54-458a-4f22-85aa-de438049b44e@31108",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "660f5e54-458a-4f22-85aa-de438049b44e@31108"
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "2369ca18-2607-47d9-86bd-378e29c9d831",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "2369ca18-2607-47d9-86bd-378e29c9d831@6c48a",
+      "displayName": "Sky0005",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2369ca18-2607-47d9-86bd-378e29c9d831"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "2369ca18-2607-47d9-86bd-378e29c9d831@6c48a",
+    "hasAlpha": true
+  }
+}

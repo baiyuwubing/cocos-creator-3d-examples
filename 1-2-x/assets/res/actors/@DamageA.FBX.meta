@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "64beedcb-722c-40a1-8cf3-e41e4f67f2b6",
+  "files": [],
+  "subMetas": {
+    "68695": {
+      "importer": "gltf-scene",
+      "uuid": "64beedcb-722c-40a1-8cf3-e41e4f67f2b6@68695",
+      "displayName": "",
+      "id": "68695",
+      "name": "@DamageA.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "f4f18": {
+      "importer": "gltf-animation",
+      "uuid": "64beedcb-722c-40a1-8cf3-e41e4f67f2b6@f4f18",
+      "displayName": "",
+      "id": "f4f18",
+      "name": "DamageA.animation",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "DamageA",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "64beedcb-722c-40a1-8cf3-e41e4f67f2b6@68695",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "64beedcb-722c-40a1-8cf3-e41e4f67f2b6@68695"
+      ]
+    }
+  }
+}

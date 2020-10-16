@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8ab2b8f3-ebaf-4314-9549-b4f64dd498e3",
+  "files": [],
+  "subMetas": {
+    "45912": {
+      "importer": "gltf-scene",
+      "uuid": "8ab2b8f3-ebaf-4314-9549-b4f64dd498e3@45912",
+      "displayName": "",
+      "id": "45912",
+      "name": "@SkillA.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "f58ed": {
+      "importer": "gltf-animation",
+      "uuid": "8ab2b8f3-ebaf-4314-9549-b4f64dd498e3@f58ed",
+      "displayName": "",
+      "id": "f58ed",
+      "name": "SkillA.animation",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.4166666269302368
+        },
+        "events": []
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.4166666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "SkillA",
+            "from": 0,
+            "to": 1.4166666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "8ab2b8f3-ebaf-4314-9549-b4f64dd498e3@45912",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "8ab2b8f3-ebaf-4314-9549-b4f64dd498e3@45912"
+      ]
+    }
+  }
+}

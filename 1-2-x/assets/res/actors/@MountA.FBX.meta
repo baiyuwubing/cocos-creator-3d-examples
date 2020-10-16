@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "79152248-40bf-4c13-8fe6-75bb30b74aa6",
+  "files": [],
+  "subMetas": {
+    "89a01": {
+      "importer": "gltf-animation",
+      "uuid": "79152248-40bf-4c13-8fe6-75bb30b74aa6@89a01",
+      "displayName": "",
+      "id": "89a01",
+      "name": "MountA.animation",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      }
+    },
+    "c1f0c": {
+      "importer": "gltf-scene",
+      "uuid": "79152248-40bf-4c13-8fe6-75bb30b74aa6@c1f0c",
+      "displayName": "",
+      "id": "c1f0c",
+      "name": "@MountA.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "MountA",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "79152248-40bf-4c13-8fe6-75bb30b74aa6@c1f0c",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "79152248-40bf-4c13-8fe6-75bb30b74aa6@c1f0c"
+      ]
+    }
+  }
+}

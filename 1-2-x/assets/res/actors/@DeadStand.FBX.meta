@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d545ac92-4453-4e8b-9386-8ef2aea4f990",
+  "files": [],
+  "subMetas": {
+    "09208": {
+      "importer": "gltf-animation",
+      "uuid": "d545ac92-4453-4e8b-9386-8ef2aea4f990@09208",
+      "displayName": "",
+      "id": "09208",
+      "name": "DeadStand.animation",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      }
+    },
+    "bfb6d": {
+      "importer": "gltf-scene",
+      "uuid": "d545ac92-4453-4e8b-9386-8ef2aea4f990@bfb6d",
+      "displayName": "",
+      "id": "bfb6d",
+      "name": "@DeadStand.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "DeadStand",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "d545ac92-4453-4e8b-9386-8ef2aea4f990@bfb6d",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "d545ac92-4453-4e8b-9386-8ef2aea4f990@bfb6d"
+      ]
+    }
+  }
+}

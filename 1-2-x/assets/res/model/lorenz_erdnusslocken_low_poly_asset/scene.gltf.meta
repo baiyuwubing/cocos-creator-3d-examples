@@ -1,0 +1,104 @@
+{
+  "ver": "1.3.24",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "239300b5-e817-48bc-a7e1-196f96d2602c",
+  "files": [],
+  "subMetas": {
+    "bcca5": {
+      "importer": "gltf-mesh",
+      "uuid": "239300b5-e817-48bc-a7e1-196f96d2602c@bcca5",
+      "displayName": "",
+      "id": "bcca5",
+      "name": "UnnamedMesh.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "239300b5-e817-48bc-a7e1-196f96d2602c@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/model/lorenz_erdnusslocken_low_poly_asset/textures/A1339_Lorenz_Erdnusslocken_baseColor.png"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7e544": {
+      "importer": "gltf-material",
+      "uuid": "239300b5-e817-48bc-a7e1-196f96d2602c@7e544",
+      "displayName": "",
+      "id": "7e544",
+      "name": "A1339_Lorenz_Erdnusslocken.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d1932": {
+      "importer": "gltf-scene",
+      "uuid": "239300b5-e817-48bc-a7e1-196f96d2602c@d1932",
+      "displayName": "",
+      "id": "d1932",
+      "name": "scene.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "db://assets/res/model/lorenz_erdnusslocken_low_poly_asset/textures/A1339_Lorenz_Erdnusslocken_baseColor.png"
+      }
+    ],
+    "redirect": "239300b5-e817-48bc-a7e1-196f96d2602c@d1932",
+    "assetFinder": {
+      "meshes": [
+        "239300b5-e817-48bc-a7e1-196f96d2602c@bcca5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "239300b5-e817-48bc-a7e1-196f96d2602c@e39f7"
+      ],
+      "materials": [
+        "239300b5-e817-48bc-a7e1-196f96d2602c@7e544"
+      ],
+      "scenes": [
+        "239300b5-e817-48bc-a7e1-196f96d2602c@d1932"
+      ]
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3ceddfc1-f28e-4c3a-a233-8f5a72953d7a",
+  "files": [],
+  "subMetas": {
+    "53440": {
+      "importer": "gltf-animation",
+      "uuid": "3ceddfc1-f28e-4c3a-a233-8f5a72953d7a@53440",
+      "displayName": "",
+      "id": "53440",
+      "name": "MountB.animation",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      }
+    },
+    "ff587": {
+      "importer": "gltf-scene",
+      "uuid": "3ceddfc1-f28e-4c3a-a233-8f5a72953d7a@ff587",
+      "displayName": "",
+      "id": "ff587",
+      "name": "@MountB.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "MountB",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "3ceddfc1-f28e-4c3a-a233-8f5a72953d7a@ff587",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "3ceddfc1-f28e-4c3a-a233-8f5a72953d7a@ff587"
+      ]
+    }
+  }
+}

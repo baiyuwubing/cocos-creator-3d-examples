@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4e2c5e49-1dbb-48c1-a1c0-bd1b76a45f23",
+  "files": [],
+  "subMetas": {
+    "2adc2": {
+      "importer": "gltf-animation",
+      "uuid": "4e2c5e49-1dbb-48c1-a1c0-bd1b76a45f23@2adc2",
+      "displayName": "",
+      "id": "2adc2",
+      "name": "SkillL.animation",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.5
+        },
+        "events": []
+      }
+    },
+    "db651": {
+      "importer": "gltf-scene",
+      "uuid": "4e2c5e49-1dbb-48c1-a1c0-bd1b76a45f23@db651",
+      "displayName": "",
+      "id": "db651",
+      "name": "@SkillL.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "SkillL",
+            "from": 0,
+            "to": 1.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "4e2c5e49-1dbb-48c1-a1c0-bd1b76a45f23@db651",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "4e2c5e49-1dbb-48c1-a1c0-bd1b76a45f23@db651"
+      ]
+    }
+  }
+}

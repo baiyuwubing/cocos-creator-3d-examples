@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ad363363-42de-4535-806f-f032baef9463",
+  "files": [],
+  "subMetas": {
+    "c711d": {
+      "importer": "gltf-animation",
+      "uuid": "ad363363-42de-4535-806f-f032baef9463@c711d",
+      "displayName": "",
+      "id": "c711d",
+      "name": "jumpC_2.animation",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      }
+    },
+    "67b25": {
+      "importer": "gltf-scene",
+      "uuid": "ad363363-42de-4535-806f-f032baef9463@67b25",
+      "displayName": "",
+      "id": "67b25",
+      "name": "@jumpC_2.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "jumpC_2",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "ad363363-42de-4535-806f-f032baef9463@67b25",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "ad363363-42de-4535-806f-f032baef9463@67b25"
+      ]
+    }
+  }
+}

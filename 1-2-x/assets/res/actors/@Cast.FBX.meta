@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "429d4c29-d066-420e-a6fb-3c9fc91163ff",
+  "files": [],
+  "subMetas": {
+    "ac910": {
+      "importer": "gltf-animation",
+      "uuid": "429d4c29-d066-420e-a6fb-3c9fc91163ff@ac910",
+      "displayName": "",
+      "id": "ac910",
+      "name": "Cast.animation",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7916666865348816
+        },
+        "events": []
+      }
+    },
+    "569db": {
+      "importer": "gltf-scene",
+      "uuid": "429d4c29-d066-420e-a6fb-3c9fc91163ff@569db",
+      "displayName": "",
+      "id": "569db",
+      "name": "@Cast.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.7916666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Cast",
+            "from": 0,
+            "to": 0.7916666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "429d4c29-d066-420e-a6fb-3c9fc91163ff@569db",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "429d4c29-d066-420e-a6fb-3c9fc91163ff@569db"
+      ]
+    }
+  }
+}

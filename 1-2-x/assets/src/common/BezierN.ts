@@ -1,3 +1,5 @@
+// author:  https://github.com/haoyuan336/cocoscreator3dBezier
+
 import { _decorator, Vec3, v3 } from 'cc';
  
 export class BezierN {

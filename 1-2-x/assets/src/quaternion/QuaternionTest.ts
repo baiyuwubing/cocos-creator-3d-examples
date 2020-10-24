@@ -1,4 +1,5 @@
 // author: http://lamyoung.com/
+// https://mp.weixin.qq.com/s/zwF5PcR96gazP1k-IzXEPg
 
 import { _decorator, Component, Node, v3, macro, tween, Quat, Vec3, systemEvent, SystemEvent, Touch, v2 } from 'cc';
 import { BezierN } from '../common/BezierN';

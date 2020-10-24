@@ -15,7 +15,23 @@ github: https://github.com/baiyuwubing
 qq 交流群: 859642112  
 
 
-# fat
+gitee 同步仓库：  https://gitee.com/lamyoung/cocos-creator-3d-examples
+
+# [1-2-x](./1-2-x)
+
+cocos creator 3d v1.2 一些例子
+ 
+## quaternion
+
+四元数与3d旋转
+
+Cocos Creator v1.2
+
+https://mp.weixin.qq.com/s/zwF5PcR96gazP1k-IzXEPg
+
+![](./1-2-x/img/quaternion.gif)
+
+# [fat](./fat)
 
 膨胀效果
  

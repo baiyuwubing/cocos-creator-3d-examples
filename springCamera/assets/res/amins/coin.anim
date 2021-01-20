@@ -1,0 +1,112 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "coin",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 0.2,
+    "wrapMode": 2,
+    "events": [],
+    "_duration": 0.11666666666666667,
+    "_keys": [
+      [
+        0,
+        0.016666666666666666,
+        0.03333333333333333,
+        0.05,
+        0.06666666666666667,
+        0.08333333333333333,
+        0.1,
+        0.11666666666666667
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "tillOffset"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__type__": "cc.Vec4",
+              "x": 0.125,
+              "y": 1,
+              "z": 0,
+              "w": 0
+            },
+            {
+              "__type__": "cc.Vec4",
+              "x": 0.125,
+              "y": 1,
+              "z": 0.125,
+              "w": 0
+            },
+            {
+              "__type__": "cc.Vec4",
+              "x": 0.125,
+              "y": 1,
+              "z": 0.25,
+              "w": 0
+            },
+            {
+              "__type__": "cc.Vec4",
+              "x": 0.125,
+              "y": 1,
+              "z": 0.375,
+              "w": 0
+            },
+            {
+              "__type__": "cc.Vec4",
+              "x": 0.125,
+              "y": 1,
+              "z": 0.5,
+              "w": 0
+            },
+            {
+              "__type__": "cc.Vec4",
+              "x": 0.125,
+              "y": 1,
+              "z": 0.625,
+              "w": 0
+            },
+            {
+              "__type__": "cc.Vec4",
+              "x": 0.125,
+              "y": 1,
+              "z": 0.75,
+              "w": 0
+            },
+            {
+              "__type__": "cc.Vec4",
+              "x": 0.125,
+              "y": 1,
+              "z": 0.875,
+              "w": 0
+            }
+          ],
+          "easingMethods": {
+            "0": "constant",
+            "1": "constant",
+            "2": "constant",
+            "3": "constant",
+            "4": "constant",
+            "5": "constant",
+            "6": "constant"
+          }
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 4234906723
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "BillboardHelper"
+  }
+]
